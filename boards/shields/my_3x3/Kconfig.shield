@@ -1,0 +1,2 @@
+config SHIELD_my_3x3
+	def_bool $(shields_list_contains,my_3x3)
