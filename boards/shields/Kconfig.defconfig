@@ -1,0 +1,4 @@
+if SHIELD_my_3x3
+config ZMK_KEYBOARD_NAME
+	default "MY3X3"
+endif
